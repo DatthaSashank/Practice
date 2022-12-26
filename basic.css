@@ -1,0 +1,6 @@
+back-image {
+  background-image: url('IMG_20220320_074937.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
